@@ -1,0 +1,16 @@
+skin_man = 0
+skin_woman = 1
+skin_male_another = 2
+skin_female_asian = 3
+skin_male_npc = 4
+skin_female_npc_euro = 5
+skin_black_male = 6
+skin_female_corprus = 7
+skin_ro_man = 8
+skin_black_female_corprus = 9
+skin_female_npc_asia = 10
+skin_female_npc_low_height_euro = 11
+skin_female_npc_low_height_asia = 12
+skin_black_woman = 13
+skin_ro_woman = 14
+skin_ro_woman_rok = 15
