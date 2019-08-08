@@ -142,11 +142,6 @@ This project is licensed under MIT, so feel free to contribute and re-release th
 This module has several contributors listed in the taleworlds page and special thanks to everyone who assisted.
 
 ## Links
-
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
 - Project homepage: https://forums.taleworlds.com/index.php?topic=371652.0
 - Mirror 1: https://www.moddb.com/mods/tainted-paths
 - Mirror 2: https://www.nexusmods.com/mbwarband/mods/6206
