@@ -137,7 +137,7 @@ The features of the overhaul are listed in descending order from latest addition
 
 ## Contributing
 
-This project is licensed under MIT, so feel free to contribute and re-release the overhaul as long as you provide credits.
+This project's custom code is licensed under MIT, all native warband code and assets are NOT covered by the MIT license.
 
 This module has several contributors listed in the taleworlds page and special thanks to everyone who assisted.
 
