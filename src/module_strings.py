@@ -1,4 +1,4 @@
-﻿
+
 
 ###Beginning module_strings.py###
 
@@ -14777,7 +14777,7 @@ strings = [
 
 
     
-     ("revision", "V2.1: Revolution edition"),
+     ("revision", "V3.0: Revolution edition"),
     
     ("mod_name_card", " "),
 
